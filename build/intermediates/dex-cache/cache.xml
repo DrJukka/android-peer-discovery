@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\AndroidSDK\samples\android-21\background\android-peer-discovery\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-bf6372499ab7d9c7586f81e3c8610d4c63b58b3f.jar" />
+    </item>
+    <item
+        jar="C:\COA\Peer2Peer\Git\android-peer-discovery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\COA\Peer2Peer\Git\android-peer-discovery\app\build\intermediates\pre-dexed\debug\classes-cdcb85476f583ec30c8828a10e11d52395988ffb.jar" />
+    </item>
+    <item
+        jar="C:\AndroidSDK\samples\android-21\background\android-peer-discovery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\AndroidSDK\samples\android-21\background\android-peer-discovery\app\build\intermediates\pre-dexed\debug\classes-dcaadb6d719bac1e5129eaa667b621202046ddc0.jar" />
+    </item>
+
+</items>
