@@ -103,7 +103,8 @@ public class MainActivity extends Activity  {
 	@Override
 	public void onDestroy() {
 		super.onDestroy();
-
+        stopService(new Intent(MainActivity.this,WifiDirectService.class));
+        isService = false;
 	}
 
     @Override
